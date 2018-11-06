@@ -1,3 +1,7 @@
+# Eclipse Java Project
+.project
+.classpath
+
 # Object files
 *.o
 *.ko
