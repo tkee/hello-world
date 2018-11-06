@@ -1,6 +1,7 @@
 # Eclipse Java Project
 .project
 .classpath
+.class
 
 # Object files
 *.o
