@@ -1,11 +1,3 @@
-/**
- * 
- */
-
-/**
- * @author tkee
- *
- */
 public class HelloWorld {
 
 	/**
